@@ -1,4 +1,4 @@
-# MEAN-BLOG
+# node express 案例MEAN-BLOG
 MEAN-BLOG is a blog project written in MEAN - MongoDB, ExpressJS, AngularJS, NodeJS.
 
 If you have a problem or have some good advice?Welcome to star and submit PR or submit a issue.❤
